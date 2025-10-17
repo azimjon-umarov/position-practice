@@ -1,2 +1,1 @@
-# position-practice
-man shu 
+zo'r proyekt
